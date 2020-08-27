@@ -9,3 +9,4 @@
  * Report client-sided errors
  * Try to apeal bans
  * Report DreamCatcher Issues, report it 
+## WE WILL IGNORE ANYBODY THAT SH**POSTS OR PUTS ANYTHING ON THE DON'TS
