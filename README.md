@@ -8,3 +8,4 @@
  * Report connection errors
  * Report client-sided errors
  * Try to apeal bans
+ * Report DreamCatcher Issues, report it 
