@@ -1,4 +1,4 @@
-## SB-Issues
+## Skyblock Issues
 # Report Skyblock Issues here.
 ## Does and Don'ts
 # Do
